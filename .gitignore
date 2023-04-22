@@ -2,17 +2,17 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
-/[Mm]emoryCaptures/
+[Mm]emoryCaptures/
 
 # Recordings can get excessive in size
 /[Rr]ecordings/
@@ -70,3 +70,29 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Hunter's Revenge/.vsconfig
+Hunter's Revenge/Packages/manifest.json
+Hunter's Revenge/Packages/packages-lock.json
+Hunter's Revenge/ProjectSettings/AudioManager.asset
+Hunter's Revenge/ProjectSettings/boot.config
+Hunter's Revenge/ProjectSettings/ClusterInputManager.asset
+Hunter's Revenge/ProjectSettings/DynamicsManager.asset
+Hunter's Revenge/ProjectSettings/EditorBuildSettings.asset
+Hunter's Revenge/ProjectSettings/EditorSettings.asset
+Hunter's Revenge/ProjectSettings/GraphicsSettings.asset
+Hunter's Revenge/ProjectSettings/InputManager.asset
+Hunter's Revenge/ProjectSettings/MemorySettings.asset
+Hunter's Revenge/ProjectSettings/NavMeshAreas.asset
+Hunter's Revenge/ProjectSettings/NetworkManager.asset
+Hunter's Revenge/ProjectSettings/PackageManagerSettings.asset
+Hunter's Revenge/ProjectSettings/Physics2DSettings.asset
+Hunter's Revenge/ProjectSettings/PresetManager.asset
+Hunter's Revenge/ProjectSettings/ProjectSettings.asset
+Hunter's Revenge/ProjectSettings/ProjectVersion.txt
+Hunter's Revenge/ProjectSettings/TagManager.asset
+Hunter's Revenge/ProjectSettings/TimeManager.asset
+Hunter's Revenge/ProjectSettings/UnityConnectSettings.asset
+Hunter's Revenge/ProjectSettings/VersionControlSettings.asset
+Hunter's Revenge/ProjectSettings/VFXManager.asset
+Hunter's Revenge/ProjectSettings/XRSettings.asset
+Hunter's Revenge/ProjectSettings/QualitySettings.asset
